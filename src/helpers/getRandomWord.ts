@@ -7,7 +7,6 @@ let words: string[] = [
     'ANIMAR',
     'MACKENZIE',
     'MACKENZIETHELITTLEENZIE',
-    'DIANAMIREINAHERMOSA',
     'ANIMAL',
     'VETERINARIO',
     'CELULAR',
